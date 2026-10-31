@@ -1,0 +1,4 @@
+opencv-python>=4.8
+mediapipe>=0.10
+numpy>=1.24
+pygame>=2.5      # optional: only for sound effects (use --no-sound to skip)
